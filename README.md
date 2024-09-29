@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/lucasvalgoi">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lucasvalgoi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=ture"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lucasvalgoi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvalgoi&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
